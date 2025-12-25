@@ -478,3 +478,4 @@ function initUI(){
   updateWishUI();
   updateCartUI();
 }
+
